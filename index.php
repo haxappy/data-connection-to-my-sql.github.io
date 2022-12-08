@@ -17,7 +17,7 @@
       <div class='welcome'>Hello There!</div>
       <div class='subtitle'><b>Hax Trade</b> almost done. Before using our services you need to create an account.</div>
       <div class='input-fields'>
-        <form action="index.php" method="POST" >
+        <form action="connection.php" method="POST" >
         <input type='text' placeholder='Username' name="name" required class='input-line full-width'></input>
         <input type='email' placeholder='Email' name="email" required  class='input-line full-width' ></input>
         <input type='password' placeholder='Password' name="pass" required class='input-line full-width'></input>
